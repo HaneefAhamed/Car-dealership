@@ -1,0 +1,10 @@
+{
+	"parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+	"rules": {
+		"no-mixed-operators": 0,
+		"no-restricted-globals": 0
+	}
+}
