@@ -1,6 +1,6 @@
 # NEWTON - Car dealership website
 
-In this is project, we built a full-stack interactive online marketplace for cars that supports checkout and admin functions for over 2000 cars. This app uses react for its frontend and express/node.js as its backend whhich interacts with our MySQL database. 
+In this is project, we built a full-stack interactive online marketplace for cars that supports checkout and admin functions for over 2000 cars. This app uses react for its frontend and express/node.js as its backend which interacts with our MySQL database. 
 
 ## To run the project:
 
